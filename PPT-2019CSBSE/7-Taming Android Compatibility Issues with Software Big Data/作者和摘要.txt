@@ -1,0 +1,32 @@
+DR R 7: Taming Android Compatibility Issues with Software Big Data
+报告人:刘晓(南方科技大学)
+摘要: Android ecos
+is heavily fra
+od. The
+ns of different
+device models and
+app
+developers to exhaus
+ed that
+by invoking specific Apls on specifie devices. He
+I will
+erage software big data to effectively aid the search of
+patibility issues in Android apps.
+epang Liu, he is a tenure-track assistant professor at the
+ogy (Sustech) He
+his Ph D. degree from the H
+and Technology(HKUST)
+with honor from Nanjing University in 2010. Prior to
+Sustech, he was a postdoctoral fellow at the
+Lab and CASTLE Lab of HKUST. His
+include software testing and analysis, aul
+mobile computing, and cybersecurity. He published widely in top software eng
+enues, including TSE, TOSEM, ICSE, ESEC/FSE, ASE, and ISSTA. His work has be
+recognized by several prestigious awards, including two ACM SIGSOFT Distinguishe
+per awards and one ACM SIGSOFT Distinguished Artifact award. He also activel
+serves as reviewers and orga
+for
+conferences and joumals an
+received an ACM SIGSOFT Service award. More
+on can be found on his per
+pagehttps://yepangliu.github.io/.
