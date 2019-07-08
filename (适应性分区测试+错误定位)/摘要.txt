@@ -1,0 +1,22 @@
+报告3:适应性分区测试
+报告人:孙昌爱(北京科技大学)
+摘要:
+随机测试和分区测试是两类常用的软件测试技术。大量的理论分析与实验评估的结果表明,这两类技术具有各自优缺点,而且彼此互补。本报告中,我们介绍课题组最近提出的自适应分区测试(APT)。APT的基本思想是:将随机测试和分区测试在测试过程中引入反馈机制对不同分区被选概率进行自适应调整;对于给定的某个分区,测试用例的选取则是随机的。我们开发了两种APT实现算法,即基于马尔可夫链的自适应分区测试和基于奖惩机制的自适应分区测试。采用三个大型开源程序的错误版本评估了所提算法的性能,实验结果表明:与随机分区测试(RPT)和动态随机测试(DRT)等基线技术相比,我们的算法具有更高的故障检测效率和更低的测试用例选择开销
+
+
+
+孙昌爱,教授,博士生导师,北京科技大学计算机科学与技术系主任、计算机与通信工程学院院长助理、软件与安全研究所所长。2002年毕业于北京航空航天大学,获计算机软件与理论博士学位(硕博连读):1997年毕业于北京科技大学,获计算机应用学士学位。长期从事软件工程、服务计算领域的研究与教学,在国内外重要期刊与会议上发表论文80余篇、申请国家发明专利6项、登记计算机软件著作权23项,主持完成国家自然科学基金等十余项研究课题。曾在美国普渡大学、荷兰格罗宁根大学、澳大利亚斯文本大学、德国帕德博恩大学、香港理工大学从事学术研究与交流。
+
+
+
+
+报告5: Human Competitiveness of Genetic Programming in Spectrum
+Based Fault Localisation
+报告人:谢晓园(武汉大学)
+摘要: This speech will talk about our recent work on the application of Genetic Programming(GP)to Spectrum Based Fault Localisation(SBFL), a problem in the area of Search Based Software Engineering (SBSE). SBFL is an automated debugging technique that has been widely studied for over a decade. It relies on what is called a risk evaluation formula to convert observations of passing and failing test executions into how likely each
+structural entity (e.g. statements or methods)is to be the cause of the failure. Over the last decade, many formulae have been manually designed. Previously we adopted GP to automatically produce a series of formulae. With a theoretical framework, we proved that these GP evolved formulae that are either 1) equivalent to the known maximals, or 2) previously unknown maximals. Moreover, we proved the sufficient and necessary condition of being a maximal for any arbitrary program. In other words, GP evolved formulae are provably at least as good as all those achieved by humans over two decades of work, and strictly superior to most of the results produced by humans over this protracted period of human intellectual effort. All in all, GP has not only expanded the horizon of what is
+feasible but also reached a point where no human can improve upon. This work has won ACM Sigevo HUMIES 2017 Silver Award.
+
+
+谢晓园,武汉大学计算机学院,博士,教授,武汉大学珞珈青年学者。主要研究方向:软件测试、缺陷定位与修复、程序分析与切片、基于搜索优化的软件工程。在包括软件工程领域顶级或知名期刊会议 TOSEM、ICSE
+JSS. IST等发表论文40余篇。曾提出首个理论分析框架彻底解决了频谱缺陷定位领域风险评估公式的性能分析问题,以第一和通讯作者在软件工程顶级期刊OsEM发表长文两篇,引用率在该期刊近十年所有论文中排名第三。获国际会议QSIC最佳论文奖,SC杂志Bioinformatics高引用率奖,获ACM Sigevo HUMIES2017银奖。主持国家自然科学基金面上项目一项,获湖北省科技进步一等奖。曾担任软件工程知名国际杂志 Journal of systems and Software专刊客座主编,国际会议MET2018、MET2019、SATE2017、IWPD2016等大会主席,国际会议ICST2018、QSIC2013宜传主席( Publicity Chair),以及一系列知名国际会议程序委员。此外,曾多次担任包括 ACM Computing Survey、 Transactions on Reliability. Journal of Systems and Software, Software Testing Verification and Reliability等在内的多个国际知名杂志审稿人及国际知名会议程序委员会成员
